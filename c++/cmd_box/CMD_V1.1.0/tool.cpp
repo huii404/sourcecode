@@ -260,7 +260,7 @@ public:
         system("cls");
         cout<<"====================================================\n";
         cout<<"DEVICE: ";cout<<core.getDeviceType();cout<<"\n";
-        cout<<"VERSION: 1.1.0\n";
+        cout<<"VERSION: 1.1.0 BASE\n";
         cout<<"Github: Huii404\n";
         cout<<"====================================================\n"; 
     }
@@ -372,4 +372,5 @@ int main(){
     app.run();
 
     return 0; 
+
 }
